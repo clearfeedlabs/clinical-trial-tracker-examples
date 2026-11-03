@@ -1,0 +1,140 @@
+{
+  "rowType": "trial",
+  "nctId": "NCT03919071",
+  "title": "Dabrafenib Combined With Trametinib After Radiation Therapy in Treating Patients With Newly-Diagnosed High-Grade Glioma",
+  "officialTitle": "A Phase 2 Study of Dabrafenib (NSC# 763760) With Trametinib (NSC# 763093) After Local Irradiation in Newly-Diagnosed BRAF V600-Mutant High-Grade Glioma (HGG)",
+  "acronym": null,
+  "overallStatus": "ACTIVE_NOT_RECRUITING",
+  "whyStopped": null,
+  "studyType": "INTERVENTIONAL",
+  "phases": [
+    "PHASE2"
+  ],
+  "conditions": [
+    "Anaplastic Astrocytoma",
+    "Anaplastic Astrocytoma, Not Otherwise Specified",
+    "Anaplastic Ganglioglioma",
+    "Anaplastic Pleomorphic Xanthoastrocytoma",
+    "Glioblastoma"
+  ],
+  "keywords": [],
+  "interventions": [
+    {
+      "type": "PROCEDURE",
+      "name": "Biospecimen Collection",
+      "otherNames": [
+        "Biological Sample Collection",
+        "Biospecimen Collected",
+        "Sample Collection",
+        "Specimen Collection"
+      ]
+    },
+    {
+      "type": "DRUG",
+      "name": "Dabrafenib Mesylate",
+      "otherNames": [
+        "Dabrafenib Methanesulfonate",
+        "GSK2118436 Methane Sulfonate Salt",
+        "GSK2118436B",
+        "Tafinlar"
+      ]
+    },
+    {
+      "type": "PROCEDURE",
+      "name": "Lumbar Puncture",
+      "otherNames": [
+        "LP",
+        "Spinal Tap"
+      ]
+    },
+    {
+      "type": "PROCEDURE",
+      "name": "Magnetic Resonance Imaging",
+      "otherNames": [
+        "Magnetic Resonance",
+        "Magnetic Resonance Imaging (MRI)",
+        "Magnetic resonance imaging (procedure)",
+        "Magnetic Resonance Imaging Scan",
+        "Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance"
+      ]
+    },
+    {
+      "type": "RADIATION",
+      "name": "Radiation Therapy",
+      "otherNames": [
+        "Cancer Radiotherapy",
+        "Energy Type",
+        "ENERGY_TYPE",
+        "Irradiate",
+        "Irradiated"
+      ]
+    }
+  ],
+  "leadSponsor": "National Cancer Institute (NCI)",
+  "sponsorClass": "NIH",
+  "collaborators": [],
+  "enrollment": 58,
+  "enrollmentType": "ESTIMATED",
+  "startDate": "2020-02-20",
+  "primaryCompletionDate": "2027-09-30",
+  "primaryCompletionType": "ESTIMATED",
+  "completionDate": "2027-09-30",
+  "firstPosted": "2019-04-18",
+  "lastUpdatePosted": "2026-11-03",
+  "resultsFirstPosted": null,
+  "hasResults": false,
+  "eligibility": {
+    "sex": "ALL",
+    "minimumAge": "3 Years",
+    "maximumAge": "25 Years",
+    "healthyVolunteers": false
+  },
+  "minimumAge": "3 Years",
+  "maximumAge": "25 Years",
+  "briefSummary": "This phase II trial studies how well the combination of dabrafenib and trametinib works after radiation therapy in children and young adults with high grade glioma who have a genetic change called BRAF V600 mutation. Radiation therapy uses high energy rays to kill tumor cells and reduce the size of \u2026",
+  "primaryOutcomes": [
+    {
+      "measure": "Event-free survival (EFS) for stratum 1",
+      "timeFrame": "From the date of diagnosis until disease progression date, secondary malignant neoplasm occurrence date, death date of any cause, or last follow-up, assessed up to 5 years"
+    }
+  ],
+  "secondaryOutcomes": [
+    {
+      "measure": "Overall survival (OS) for stratum 1, stratum 2, and stratum 3",
+      "timeFrame": "From the date of diagnosis until death date of any cause or last follow up date, assessed up to 5 years"
+    },
+    {
+      "measure": "Event-free survival (EFS) for stratum 2 and stratum 3",
+      "timeFrame": "Follow up date, assessed up to 5 years"
+    },
+    {
+      "measure": "Incidence of adverse events",
+      "timeFrame": "Up to 5 years"
+    }
+  ],
+  "locationCount": 131,
+  "countries": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "usStates": [
+    "Alabama",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado"
+  ],
+  "recruitingSiteCount": 0,
+  "referencePmids": [
+    "34331515"
+  ],
+  "url": "https://clinicaltrials.gov/study/NCT03919071",
+  "isNew": false,
+  "isChanged": false,
+  "changes": [],
+  "changeSummary": [],
+  "sourceUpdatedAt": "2026-11-03",
+  "detectedAt": null,
+  "sourceApi": "ClinicalTrials.gov API v2",
+  "scrapedAt": "2026-11-03T20:38:30.215Z"
+}

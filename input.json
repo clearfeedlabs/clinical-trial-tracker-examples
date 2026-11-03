@@ -1,0 +1,9 @@
+{
+  "conditions": [
+    "glioblastoma"
+  ],
+  "statuses": [
+    "RECRUITING"
+  ],
+  "maxItems": 20
+}
