@@ -35,7 +35,7 @@ Pay per result: **$2.00 per 1,000 trials**, with no subscription. The [Store pag
 ## Related Clearfeed Labs Actors
 - [Grants.gov Scraper & Grant Finder API: NSF, NIH Fellowships](https://apify.com/clearfeedlabs/grant-fellowship-radar): federal grants and fellowships with deadlines
 - [SEC Form D Scraper: Startup Funding Leads Feed (EDGAR)](https://apify.com/clearfeedlabs/form-d-funding-feed): newly funded companies from SEC Form D
-- [USAspending Scraper: Federal Contract & Grant Award Alerts](https://apify.com/clearfeedlabs/money-trail-federal-awards): federal contract and grant awards with recompete details
+- [Research Lab Finder: Funded Labs by Topic (NIH, NSF, PubMed)](https://apify.com/clearfeedlabs/paper-to-lab-research-finder): funded research labs by topic from NIH and NSF grants
 - [All Clearfeed Labs Actors](https://apify.com/clearfeedlabs)
 
 ## FAQ
